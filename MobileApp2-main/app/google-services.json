@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "900374900901",
+    "project_id": "uphmobile-c72c5",
+    "storage_bucket": "uphmobile-c72c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900374900901:android:e75f9a598eea952adf9d4c",
+        "android_client_info": {
+          "package_name": "edu.uph.m24si2.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900374900901-83sre6tdnupr7pb980f55joq481v0geu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZzijggKNpf_RUnUpGb_GDXC-_X_PR58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900374900901-83sre6tdnupr7pb980f55joq481v0geu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900374900901:android:7194c9b1031bad33df9d4c",
+        "android_client_info": {
+          "package_name": "edu.uph.m24si2.roomkotlindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900374900901-83sre6tdnupr7pb980f55joq481v0geu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZzijggKNpf_RUnUpGb_GDXC-_X_PR58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900374900901-83sre6tdnupr7pb980f55joq481v0geu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
